@@ -1,0 +1,10 @@
+name: spacedog
+dependencies:
+    - python=3.6
+    - spacy
+    - pip:
+        - autopep8
+        - jupyter_contrib_nbextensions
+        - jupyter_nbextensions_configurator
+        - jupyterthemes
+        - tqdm
